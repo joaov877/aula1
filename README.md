@@ -1,4 +1,4 @@
-# aula1
+# Aula1
 Introdução ao GitHub: É uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão. Permite colaboração em projetos, rastreamento de alterações e gerenciamento de versões.
 Criação de Repositórios: Explicação sobre como criar um repositório, a diferença entre repositórios públicos e privados e a importância de README.
 Comandos Básicos do Git:
